@@ -1,4 +1,7 @@
 # Raspberry Pi Pico + Adafruit Ultimate GPS
+
+<img src="/img/pico_gps.png" width="85%">
+
 This is a modification of my python XavierNX and pi-top[4] GPS script
 
 It gets the GPS data from the Adafruit Ultimate GPS v3 and parces NMEA messages for GPGGA, GPGSA, GPRMC and GPZDA
