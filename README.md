@@ -12,6 +12,7 @@ It gets the GPS data from the Adafruit Ultimate GPS v3 and parces NMEA messages 
 * uFL to SMA adapter (optional)
 
 ## To Do
+* Error handling
 * integrate a screen and display data
 * add Micro SD card breakout
 * log data to micro SD
